@@ -1,17 +1,13 @@
 # San
 
-Hello everyone! We are the students from the group AIN-2-20. This is our project. 
+Hello everyone! We are the students from the group AIN-3-21. This is our project. 
 
 Branch: "full" is the completed one. Please checkout to this branch in order to see final results.
 
 --------------------------------------------------------------
 Members:
 
-Kerimov Adis
-
-Chandaev Bekzhan
-
-Budaychieva Aigerim
+Birlikova Nagima
 
 
 
